@@ -170,3 +170,13 @@ Proyek ini membangun website data diri sederhana yang terdiri dari dua halaman y
 2. **Klik link "profil" untuk memastikan link tersebut mengarah dan menampilkan gambar profil Anda.**
 3. **Akses halaman profil di port 8081 untuk memastikan gambar profil Anda ditampilkan dengan benar.**
 
+### Screenshots
+
+1. **Halaman Utama:**
+
+    ![Halaman Utama](https://github.com/CholisMajid/responsi_teknocloud/blob/main/ss1.jpeg?raw=true)
+
+2. **Halaman Profil:**
+
+    ![Halaman Profil](https://github.com/CholisMajid/responsi_teknocloud/blob/main/ss2.jpeg?raw=true)
+
