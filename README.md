@@ -39,10 +39,10 @@ Proyek ini membangun website data diri sederhana yang terdiri dari dua halaman y
     </head>
     <body>
         <h1>Data Diri</h1>
-        <p>Nama Lengkap: Nama Anda</p>
-        <p>NIM: NIM Anda</p>
-        <p>Program Studi: Program Studi Anda</p>
-        <p>Hobi: Hobi Anda</p>
+        <p>Nama Lengkap: Muhammad Noor Cholis Majid</p>
+        <p>NIM: 215610084</p>
+        <p>Program Studi: Sistem Informasi</p>
+        <p>Hobi: Menonton Film</p>
         <a href="/profil">Profil</a>
     </body>
     </html>
