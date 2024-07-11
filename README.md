@@ -43,10 +43,12 @@ Proyek ini membangun website data diri sederhana yang terdiri dari dua halaman y
         <p>NIM: 215610084</p>
         <p>Program Studi: Sistem Informasi</p>
         <p>Hobi: Menonton Film</p>
-        <a href="/profil">Profil</a>
+        <a href="https://8742ec53-7a5b-4e71-8a25-b7f2f23ffc44-10-244-7-50-8081.papa.r.killercoda.com/">Profil</a>
     </body>
     </html>
     ```
+
+    Link (https://8742ec53-7a5b-4e71-8a25-b7f2f23ffc44-10-244-7-50-8081.papa.r.killercoda.com/) : didapat dari menjalankan website-profil di port 8081, jadi sebelum menjalankan port 8080 sebaiknya menjalankan port 8081 untuk mengetahui link url website-profil
 
 3. **Di dalam direktori `website-profil`, tempatkan file gambar profil Anda dengan nama `foto.jpg`.**
 
